@@ -31,7 +31,7 @@
         </div>
         <div></div>
         <div>
-          <p class="title">已获得奖金</p>
+          <p class="title">已获得奖励</p>
           <router-link to="prize">
             <p class="content">
               &yen;&nbsp;{{ prize }}&nbsp;
@@ -71,7 +71,7 @@
         <div class="content">
           <p>{{ trailerTime }}</p>
           <div></div>
-          <p>&yen;&nbsp;{{ trailerPrize }}&nbsp;奖金</p>
+          <p>&yen;&nbsp;{{ trailerPrize }}&nbsp;奖励</p>
         </div>
       </div>
       <!--分割线-->
